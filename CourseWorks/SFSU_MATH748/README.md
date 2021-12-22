@@ -1,8 +1,8 @@
 # Math 748: Theory and Applications of Statistical and Machine Learning
-Math 748 in Fall 2021. This course includes mathematical theory of classical methods in ML and some R implementations.
+This is a personal studying materials for Math 748 in Fall 2021 by Professor Tao He. This course includes mathematical theory of classical methods in ML and R implementations.
 
 ## Weekly Reports
-Notes based on the lectures of Professor Tao He. Will be updated with a merged one.
+Notes based on the lectures. Will be updated with a merged one.
 ### W7
 6. Binary Classification: LDA and LR
 7. Binary Classification: High Dimension
